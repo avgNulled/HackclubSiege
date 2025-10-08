@@ -1,4 +1,4 @@
-# Imports modules
+#!/bin/python
 import os, sys
 import colorsys
 
